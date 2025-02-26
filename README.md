@@ -9,8 +9,6 @@ En este proyecto, utilizo mi mano como un ratón virtual que puede realizar toda
 
 Además, se ha añadido un factor de suavizado para corregir el movimiento inestable del cursor.
 
-![Alt Text](https://github.com/HxnDev/Virtual-Mouse-using-OpenCV/blob/main/Virtual%20Mouse.gif)
-
 ## Requisitos
 Para que este proyecto funcione correctamente, se deben instalar los siguientes módulos:
 
